@@ -1,6 +1,6 @@
 # Subete
-requirements
-Docker
-docker-compose
-psql
-rust
+requirements  
+Docker  
+docker-compose  
+psql  
+rust  
